@@ -1,0 +1,28 @@
+* {
+  background-color: antiquewhite;
+  text-align: center;
+}
+hr {
+  width: 50%;
+}
+h1,
+#heading {
+  text-align: center;
+}
+#heading {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0%;
+  line-height: 3vi;
+}
+li {
+  font-size: large;
+}
+.copy-left {
+  display: inline-block;
+  transform: rotate(180deg);
+}
